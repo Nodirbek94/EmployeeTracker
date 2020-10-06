@@ -34,5 +34,5 @@ Application was tested using the terminal and npm tests
 
 
 ## Questions
-Questions about this repository? Please contact me at [nodirbekmaksudov@gmail.com](mailto:nodirbekmaksudov@gmail.com). View more of my work in GitHub at [undefined](https://github.com/undefined) 
+Questions about this repository? Please contact me at [nodirbekmaksudov@gmail.com](mailto:nodirbekmaksudov@gmail.com). View more of my work in GitHub at [https://github.com/Nodirbek94](https://github.com/Nodirbek94) 
 
