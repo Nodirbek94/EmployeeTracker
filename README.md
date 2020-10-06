@@ -11,10 +11,15 @@ This command line application can be used to manage employees, user can view all
 * [Contributions](#contributions)
 * [Tests](#tests)
 * [Questions](#questions)
+* [Screenshots](#screenshots)
 
 ## Installation
 To use this application user must npm install first using the terminal, also user should have node.js installed to their system
 
+## Screenshots
+<img src="./assests/Screen%20Shot%202020-10-06%20at%207.46.17%20PM.png">
+<img src="./assests/Screen%20Shot%202020-10-06%20at%207.46.45%20PM.png">
+<img src="./assests/Screen%20Shot%202020-10-06%20at%207.47.24%20PM.png">
 
 ## Usage
 Application can be used to manage employees
