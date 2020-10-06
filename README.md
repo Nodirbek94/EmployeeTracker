@@ -37,6 +37,9 @@ Anyone can contribute to this application by just forking the application
 ## Tests
 Application was tested using the terminal and npm tests
 
+## Video
+<iframe src="https://drive.google.com/file/d/1NQ0WI73vpab2ZK8HKyuii8C4Fbbgijj_/preview" width="640" height="480"></iframe>
+
 
 ## Questions
 Questions about this repository? Please contact me at [nodirbekmaksudov@gmail.com](mailto:nodirbekmaksudov@gmail.com). View more of my work in GitHub at [https://github.com/Nodirbek94](https://github.com/Nodirbek94) 
