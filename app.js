@@ -8,7 +8,7 @@ const connectionProperties = {
     port: 3306,
     user: "root",
     password: "Nodirbek1994",
-    database: "employees_DB"
+    database: "employee_DB"
 }
 
 // Creating Connection
@@ -214,7 +214,7 @@ function addEmp() {
             {
                 name: "lastName",
                 type: "input",
-                message: "Lastname name: ",
+                message: "Lastname: ",
 
                 validate: function (input) {
                     if (input === "") {
