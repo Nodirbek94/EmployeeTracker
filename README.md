@@ -37,8 +37,10 @@ Anyone can contribute to this application by just forking the application
 ## Tests
 Application was tested using the terminal and npm tests
 
-## Video
-<iframe src="https://drive.google.com/file/d/1NQ0WI73vpab2ZK8HKyuii8C4Fbbgijj_/preview" width="640" height="480"></iframe>
+## Demo
+![gif](./assests/Untitled_%20Oct%206,%202020%207_05%20PM.gif)
+Full video: https://drive.google.com/file/d/1NQ0WI73vpab2ZK8HKyuii8C4Fbbgijj_/view
+
 
 
 ## Questions
